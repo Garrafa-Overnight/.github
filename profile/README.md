@@ -1,8 +1,7 @@
 # Manual do Hackathon Overnight 🌙💻
 
----
 
-## 🗺️ Mapa do Evento (Sexta 19h30 às 12h Sábado)
+## 🗺️ Mapa do Evento
 
 ⏰ *Timer disponível no telão para acompanhamento das etapas*
 
