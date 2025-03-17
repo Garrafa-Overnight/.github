@@ -44,12 +44,10 @@
 
 ## 👥 Dinâmica dos Squads
 
-### 🔀 Formação de Times (Visível apenas para a organização do evento)
+### 🔀 Formação de Times
 
 1. Auto-organização inicial dos participantes
 2. Eleição de **Tech Lead** em cada squad
-3. Leads escolhidos participam de uma redistribuição
-4. **Redistribuição:** Leads formam um novo time com novos integrantes 
 
 ### ✅ Responsabilidades do Lead
 
