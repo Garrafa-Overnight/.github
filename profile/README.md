@@ -6,28 +6,14 @@
 
 ⏰ *Timer disponível no telão para acompanhamento das etapas*
 
-| Horário | Atividade | Detalhes |
-| -- | -- | -- |
-| **19h30-21h** | Abertura Institucional | * História do Garrafa no Mar
-* Explicação dos desafios
+| Horário        | Atividade                           | Detalhes                                                                 |
+|----------------|-------------------------------------|--------------------------------------------------------------------------|
+| **19h30-21h**  | **Abertura Institucional**          | • História do Garrafa no Mar<br>• Explicação dos desafios                |
+| **21h-22h**    | **Formação de Squads + Planejamento** | • Divisão de times<br>• Definição de escopo e tecnologias               |
+| **22h-10h**    | **Coding Sprint** (12h de dev)      | • Implementação com mentoria técnica<br>• *Check-ins a cada 3h no Discord* |
+| **10h-11h**    | **Preparação de Apresentações**     | • Documentação técnica<br>• Pitch e ajustes finais no MVP               |
+| **11h-12h**    | **Demo Day & Avaliação Final**      | • Apresentações de 10min por squad<br>• Critérios técnicos e criatividade |
 
- |
-| **21h-22h** | Formação de Squads + Planejamento | * Divisão de times
-* Definição de escopo e tecnologias
-
- |
-| **22h-10h** | **Coding Sprint** (12h de desenvolvimento) | * Implementação com mentoria técnica
-* *Check-ins a cada 3h no Discord*
-
- |
-| **10h-11h** | Preparação de Apresentações | * Documentação técnica
-* Pitch e ajustes finais no MVP
-
- |
-| **11h-12h** | Demo Day & Avaliação Final | * Apresentações de 10min por squad
-* Critérios técnicos e criatividade
-
- |
 
 > **Nota:** Tempos de apresentação serão ajustados conforme número de squads
 
