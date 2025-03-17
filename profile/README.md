@@ -22,7 +22,7 @@
 
 ### 🤝 Colaboração
 
-* Ser comunicativo com o seu e os demais squads 
+* Ser comunicativo com o seu e os demais squads
 * **Uso do** Discord:
   * `#geral` para **colaborar com outros squads**
   * `#squad-X` para discussões internas do squad
@@ -31,14 +31,28 @@
 
 ### 💡 **Criatividade**
 
+* Soluções não óbvias para os problemas propostos
+* Interface intuitiva e acessível
+
 ### 📁 Versionamento
 
-* 1 repositório GitHub por squad
-* **Padrão de commits**: Conventional Commits
+* **1 Repositório GitHub por squad**:
+  * Deve conter: `README.md` com documentação clara dentro das pastas (ex.: `frontend/`, `backend/`)
+* **Padrão de commits**: 
+  * Conventional Commits
+* **Histórico de Contribuição**
+  * Todos os membros devem ter **commits** no repositório
 
 ### 🧼 **Qualidade do Código**
 
+* Código modularizado
+* Tratamento de erros
+* Separação de responsabilidades na implementação
+
 ### 🚀 **Entrega Funcional**
+
+* Entrega que atende aos casos de uso
+* Funcionalidades **core** do desafio implementadas
 
 ---
 
