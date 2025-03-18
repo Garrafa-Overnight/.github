@@ -31,7 +31,7 @@ Os melhores talentos do Overnight Hackathon serão recrutados para integrar o **
   * `#geral` para **colaborar com outros squads**
   * `#squad-X` para discussões internas do squad
 * **Sincronizações obrigatórias** a cada 3 horas (20h, 23h, 02h, 05h, 08h)
-  * **Check-ins de 10 minutos** por squad no canal de voz designado.
+  * **Check-ins de 10 minutos** por squad.
 
 ### 💡 **Criatividade**
 
