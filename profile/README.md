@@ -1,24 +1,28 @@
 # Manual do Hackathon Overnight 🌙💻
 
-
 ## 🗺️ Mapa do Evento
 
 ⏰ *Timer disponível no telão para acompanhamento das etapas*
 
-| Horário        | Atividade                           | Detalhes                                                                 |
-|----------------|-------------------------------------|--------------------------------------------------------------------------|
-| **19h30-21h**  | **Abertura Institucional**          | • História do Garrafa no Mar<br>• Explicação dos desafios                |
-| **21h-22h**    | **Formação de Squads + Planejamento** | • Divisão de times<br>• Definição de escopo e tecnologias               |
-| **22h-10h**    | **Coding Sprint** (12h de dev)      | • Implementação com mentoria técnica<br>• *Check-ins a cada 3h no Discord* |
-| **10h-11h**    | **Preparação de Apresentações**     | • Documentação técnica<br>• Pitch e ajustes finais no MVP               |
-| **11h-12h**    | **Demo Day & Avaliação Final**      | • Apresentações de 10min por squad<br>• Critérios técnicos e criatividade |
-
+| Horário | Atividade | Detalhes |
+| -- | -- | -- |
+| **19h30-21h** | **Abertura Institucional** | • História do Garrafa no Mar<br>• Explicação dos desafios |
+| **21h-22h** | **Formação de Squads + Planejamento** | • Divisão de times<br>• Definição de escopo e tecnologias |
+| **22h-10h** | **Coding Sprint** (12h de dev) | • Implementação com mentoria técnica<br>• *Check-ins a cada 3h* |
+| **10h-11h** | **Preparação de Apresentações** | • Documentação técnica<br>• Pitch e ajustes finais no MVP |
+| **11h-12h** | **Demo Day & Avaliação Final** | • Apresentações de 10min por squad<br>• Critérios técnicos e criatividade |
 
 > **Nota:** Tempos de apresentação serão ajustados conforme número de squads
 
 ---
 
-## 🏆Critérios de Avaliação
+## 🏆Premiação
+
+Os melhores talentos do Overnight Hackathon serão recrutados para integrar o **time de tecnologia do Garrafa no Mar**, onde suas habilidades ajudarão a escalar soluções de impacto.
+
+---
+
+## ⚖️Critérios de Avaliação
 
 ### 🤝 Colaboração
 
@@ -87,7 +91,7 @@
 
 ---
 
-### 🧩 Desafio 1: Sistema de Pagamentos (Payment)
+### 🧩 Desafio 1: Sistema de Pagamentos
 
 #### 📌 Stack Obrigatória
 
