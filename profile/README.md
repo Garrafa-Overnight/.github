@@ -93,33 +93,7 @@ Os melhores talentos do Overnight Hackathon serão recrutados para integrar o **
 
 ### 🧩 Desafio 1: Sistema de Pagamentos
 
-#### 📌 Stack Obrigatória
-
-```markdown
-- **Frontend (NextJS)**: 
-  - Checkout
-  - Gestão de cofres
-  - Fluxo de pagamentos
-- **Backend (NestJS)**:
-  - Processamento de filas
-  - Gestão de assinaturas
-  - API de cobranças
-- **Banco**: SQLite + Prisma
-```
-
-#### 🔗 Integrações
-
-```markdown
-- Efipay APIs (Pix/Cobranças)
-- Simulação de ambiente produtivo para pagamentos
-```
-
-#### 🛠️ Ferramentas
-
-```
-- REST Client / Postman / Insominia
-- Dados fake para testes (contas de consumo)
-```
+O Cofre Social é o coração financeiro do Garrafa no Mar, responsável por processar doações de Anjos e direcioná-las automaticamente para Beneficiários, através do serviço de pagamentos, que visa transformar como os anjos contribuem para as contas de consumo dos beneficiários no aplicativo Garrafa no Mar. Com a nova funcionalidade, os anjos poderão fazer pagamentos únicos ou recorrentes de qualquer valor, e o sistema de pagamentos se encarregará de processar o pagamento das contas, facilitando a ajuda e aumentando a flexibilidade nas doações. A solução garantirá que Anjos doem com segurança e transparência e Beneficiários recebam ajuda ágil, sem burocracia.
 
 > **Detalhamento completo**: [README do Desafio Payment](github-link)
 
@@ -127,32 +101,7 @@ Os melhores talentos do Overnight Hackathon serão recrutados para integrar o **
 
 ### 🧩 Desafio 2: Sistema de Tagging com IA
 
-#### 📌 Stack Obrigatória
-
-```markdown
-- **Frontend (NextJS)**:
-  - Cadastro de teses
-  - Dashboard de tags
-- **Backend (NestJS)**:
-  - API de classificação
-  - Gestão de modelos
-- **Banco**: SQLite + Prisma
-```
-
-#### 🤖 Integração AI
-
-```
-- Vercel AI SDK
-- API Token AI (qualquer uma)
-```
-
-#### ✨ Funcionalidades-Chave
-
-```
-- Geração automática de tags
-- Sistema de sugestão contextual
-- Histórico de classificações
-```
+O mapeamento de perfis é vital para conectar Anjos e Beneficiários de forma estratégica. O sistema de TAG utiliza inteligência artificial para classificar os beneficiários e associar tags e teses de ajuda a seus perfis. Isso permitirá uma melhor priorização e direcionamento das ajudas.
 
 > **Detalhamento completo**: [README do Desafio Tagging AI](github-link)
 
