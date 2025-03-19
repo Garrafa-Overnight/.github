@@ -101,7 +101,7 @@ O Cofre Social é o coração financeiro do Garrafa no Mar, responsável por pro
 
 ### 🧩 Desafio 2: Sistema de Tagging com IA
 
-O mapeamento de perfis é vital para conectar Anjos e Beneficiários de forma estratégica. O sistema de TAG utiliza inteligência artificial para classificar os beneficiários e associar tags e teses de ajuda a seus perfis. Isso permitirá uma melhor priorização e direcionamento das ajudas.
+No Garrafa no Mar, cada história importa. O Sistema de Tagging com IA é o cérebro estratégico do Garrafa no Mar como um "ouvido atento" que transforma relatos emocionais em ações precisas. O mapeamento de perfis é vital para conectar Anjos e Beneficiários de forma estratégica. O sistema utiliza inteligência artificial para classificar os beneficiários e associar tags e teses de ajuda a seus perfis. Isso permitirá uma melhor priorização e direcionamento das ajudas.
 
 > **Detalhamento completo**: [README do Desafio Tagging AI](github-link)
 
