@@ -18,7 +18,7 @@
 
 ## 🏆Premiação
 
-Os melhores talentos do Overnight Hackathon serão recrutados para integrar o **time de tecnologia do Garrafa no Mar**, onde suas habilidades ajudarão a escalar soluções de impacto.
+Os melhores talentos do Hackathon Overnight serão recrutados para integrar o **time de tecnologia do Garrafa no Mar** em uma sprint de 5 semanas, onde suas habilidades ajudarão a escalar soluções de impacto.
 
 ---
 
@@ -30,7 +30,7 @@ Os melhores talentos do Overnight Hackathon serão recrutados para integrar o **
 * **Uso do** Discord:
   * `#geral` para **colaborar com outros squads**
   * `#squad-X` para discussões internas do squad
-* **Sincronizações obrigatórias** a cada 3 horas (20h, 23h, 02h, 05h, 08h)
+* **Sincronizações obrigatórias** a cada 3 horas (22h, 01h, 04h, 07h, 10h)
   * **Check-ins de 10 minutos** por squad.
 
 ### 💡 **Criatividade**
@@ -110,7 +110,7 @@ O mapeamento de perfis é vital para conectar Anjos e Beneficiários de forma es
 ## ⚡ Dicas Cruciais
 
 1. Mantenham o `main` sempre estável
-2. Documentem decisões técnicas no README (front ou back)
+2. Documentem decisões técnicas no README (front e back)
 3. Testem integrações críticas primeiro
 4. Priorizem MVP funcional sobre features complexas
 
