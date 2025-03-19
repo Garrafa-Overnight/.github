@@ -91,7 +91,7 @@ Os melhores talentos do Hackathon Overnight serão recrutados para integrar o **
 
 ---
 
-### 🧩 Desafio 1: Sistema de Pagamentos
+### 🧩 Desafio: Sistema de Pagamentos
 
 O Cofre Social é o coração financeiro do Garrafa no Mar, responsável por processar doações de Anjos e direcioná-las automaticamente para Beneficiários, através do serviço de pagamentos, que visa transformar como os anjos contribuem para as contas de consumo dos beneficiários no aplicativo Garrafa no Mar. Com a nova funcionalidade, os anjos poderão fazer pagamentos únicos ou recorrentes de qualquer valor, e o sistema de pagamentos se encarregará de processar o pagamento das contas, facilitando a ajuda e aumentando a flexibilidade nas doações. A solução garantirá que Anjos doem com segurança e transparência e Beneficiários recebam ajuda ágil, sem burocracia.
 
@@ -99,11 +99,11 @@ O Cofre Social é o coração financeiro do Garrafa no Mar, responsável por pro
 
 ---
 
-### 🧩 Desafio 2: Sistema de Tagging com IA
+### 🧩 Desafio: Sistema de Tagging com IA
 
 No Garrafa no Mar, cada história importa. O Sistema de Tagging com IA é o cérebro estratégico do Garrafa no Mar como um "ouvido atento" que transforma relatos emocionais em ações precisas. O mapeamento de perfis é vital para conectar Anjos e Beneficiários de forma estratégica. O sistema utiliza inteligência artificial para classificar os beneficiários e associar tags e teses de ajuda a seus perfis. Isso permitirá uma melhor priorização e direcionamento das ajudas.
 
-> **Detalhamento completo**: [README do Desafio Tagging AI](github-link)
+> **Detalhamento completo**: [README do Desafio Tagging AI](https://github.com/Garrafa-Overnight/squad-tag)
 
 ---
 
