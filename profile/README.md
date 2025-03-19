@@ -67,7 +67,7 @@ Os melhores talentos do Hackathon Overnight serão recrutados para integrar o **
 1. Auto-organização inicial dos participantes
 2. Eleição de **Tech Lead** em cada squad
 
-### ✅ Responsabilidades do Lead
+### ✅ Responsabilidades do Tech Lead
 
 * Gerenciar fluxo de trabalho do squad
 * Garantir comunicação com outros squads
@@ -77,7 +77,7 @@ Os melhores talentos do Hackathon Overnight serão recrutados para integrar o **
 
 ## 🎯 Desafios Técnicos
 
-### 📋 Stack Recomendada
+### 📋 Stack a ser utilizada
 
 * NextJS (Front)
 * NestJS (Back)
